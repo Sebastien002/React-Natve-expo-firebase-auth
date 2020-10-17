@@ -1,0 +1,42 @@
+{
+  "login.label": [
+    "Sign In",
+    "Se connecter"
+  ],
+  "login.labelPhone": [
+    "Continue with Phone",
+    "Utiliser le téléphone"
+  ],
+  "login.invalid": [
+    "Invalid Username and Password",
+    "Nom d'utilisateur et mot de passe invalide"
+  ],
+  "login.success": [
+    "Login Successful",
+    "Connexion réussie"
+  ],
+  "login.forgot": [
+    "Forgot Password?",
+    "Mot de passe oublié?"
+  ],
+  "login.member": [
+    "Become a member",
+    "Devenir membre"
+  ],
+  "login.social": [
+    "Login with social apps",
+    "continue avec"
+  ],
+  "login.signUp": [
+    "Sign Up",
+    "S'inscrire"
+  ],
+  "login.fail": [
+    "Could not authenticate you with",
+    "Impossible de vous authentifier avec"
+  ],
+  "login.emailLogin": [
+    "Continue with Email",
+    "Utiliser l'adresse e-mail"
+  ]
+}

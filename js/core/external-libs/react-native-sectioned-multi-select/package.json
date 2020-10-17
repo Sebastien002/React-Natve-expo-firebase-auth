@@ -1,0 +1,70 @@
+{
+  "_from": "react-native-sectioned-multi-select",
+  "_id": "react-native-sectioned-multi-select@0.5.2",
+  "_inBundle": false,
+  "_integrity": "sha512-PrO7mg4gkvx8cTV5o+jQfXMX4iczm6J0KtbJ+x6VF2v/sHFygU6homMAWp8FwXq+ZsTOsFEjxkNAwqTf9Lnq7w==",
+  "_location": "/react-native-sectioned-multi-select",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-sectioned-multi-select",
+    "name": "react-native-sectioned-multi-select",
+    "escapedName": "react-native-sectioned-multi-select",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-sectioned-multi-select/-/react-native-sectioned-multi-select-0.5.2.tgz",
+  "_shasum": "5a9a93a5785c89892314950f65568e0ba6f32d97",
+  "_spec": "react-native-sectioned-multi-select",
+  "_where": "/Users/inder/Data/Development/Repositories/gitlab/Arivaa-Basic/js/core",
+  "author": {
+    "name": "Ren Rizzolo"
+  },
+  "bugs": {
+    "url": "https://github.com/renrizzolo/react-native-sectioned-multi-select/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "a multi (or single) select component with support for sub categories, search, chips.",
+  "devDependencies": {
+    "babel-eslint": "^8.1.2",
+    "eslint": "^4.15.0",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.5.1"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "homepage": "https://github.com/renrizzolo/react-native-sectioned-multi-select#readme",
+  "keywords": [
+    "select",
+    "multiselect",
+    "picker",
+    "category",
+    "react",
+    "native"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-sectioned-multi-select",
+  "peerDependencies": {
+    "prop-types": "^15.6.0",
+    "react-native-vector-icons": "^4.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renrizzolo/react-native-sectioned-multi-select.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.5.2"
+}

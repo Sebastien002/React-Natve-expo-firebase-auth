@@ -1,0 +1,29 @@
+{
+  "name": "arivaa-basic",
+  "main": "components/index.js",
+  "version" : "1.0.0",
+    "dependencies": {
+    "@ptomasroos/react-native-multi-slider": "^1.0.0",
+    "base-64": "^0.1.0",
+    "faker": "^4.1.0",
+    "moment": "^2.22.2",
+    "react-native-action-sheet-component": "file:./external-libs/react-native-action-sheet-component",
+    "react-native-calendars": "^1.20.0",
+    "react-native-image-progress": "^1.1.1",
+    "react-native-loader": "^1.2.1",
+    "react-native-progress": "^3.5.0",
+    "react-native-progress-circle": "^2.0.0",
+    "react-native-sectioned-multi-select": "file:./external-libs/react-native-sectioned-multi-select",
+    "react-native-slider": "file:./external-libs/react-native-slider",
+    "react-native-image-progress": "file:./external-libs/react-native-image-progress",
+    "react-native-snap-carousel": "^3.7.2",
+    "react-native-root-siblings": "^1.2.0",
+    "react-native-hyperlink": "0.0.13",
+    "babel-plugin-flow-react-proptypes": "^2.1.3",
+    "babel-preset-es2016": "^6.22.0",
+    "lodash": "^4.17.4",
+    "prop-types": "^15.5.8",
+    "react-native-animated-overlay": "^0.0.10",
+    "react-native-root-siblings": "^1.2.0"
+  }
+}

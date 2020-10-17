@@ -1,0 +1,22 @@
+{
+  "verification.title": [
+    "Enter Verification Code",
+    "Entrez le code de vérification"
+  ],
+  "verification.message": [
+    "Please enter the otp you have received and click on submit",
+    "S'il vous plaît entrer le otp que vous avez reçu et cliquez sur soumettre"
+  ],
+  "verification.submit": [
+    "Submit",
+    "Soumettre"
+  ],
+  "verification.fail": [
+    "Invalid Otp",
+    "Otp invalide"
+  ],
+  "verification.success": [
+    "Verification Successful",
+    "Vérification réussie"
+  ]
+}

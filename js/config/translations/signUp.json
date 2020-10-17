@@ -1,0 +1,54 @@
+{
+  "signUp.error": [
+    "Error while registration. Please try again or contact us.",
+    "Erreur lors de l'inscription. Veuillez réessayer ou contactez-nous."
+  ],
+  "signUp.duplicate.username": [
+    "This username already exists in our system.",
+    "Ce nom d'utilisateur existe déjà dans notre système."
+  ],
+  "signUp.duplicate.email": [
+    "This email already exists in our system.",
+    "Cet email existe déjà dans notre système."
+  ],
+  "signUp.success": [
+    "Hi there, Please confirm your account. A verification email has been sent to your email address.",
+    "Bonjour, S'il vous plaît confirmer votre compte. Un e-mail de vérification a été envoyé à votre adresse e-mail."
+  ],
+  "signUp.accountVerification.warning": [
+    "Your account has not yet been verified.",
+    "Votre compte n'a pas encore été vérifié."
+  ],
+  "signUp.accountVerification.error": [
+    "Your account could not be verified. Please try again.",
+    "Votre compte n'a pas pu être vérifié. Veuillez réessayer."
+  ],
+  "signUp.accountVerification.invalidLink": [
+    "Your verification link is invalid. Please try again.",
+    "Votre lien de vérification est invalide. Veuillez réessayer."
+  ],
+  "signUp.accountVerification.success": [
+    "Your account has been successfully verified.",
+    "Votre compte a été vérifié avec succès."
+  ],
+  "signUp.signUp": [
+    "Sign Up",
+    "S'inscrire"
+  ],
+  "signUp.label": [
+    "Sign In",
+    "Se connecter"
+  ],
+  "signUp.member": [
+    "Become a member",
+    "Devenir membre"
+  ],
+  "signUp.social": [
+    "Login with social apps",
+    "continue avec"
+  ],
+  "signUp.fail": [
+    "Error while registering your account",
+    "Erreur lors de l'enregistrement de votre compte"
+  ]
+}

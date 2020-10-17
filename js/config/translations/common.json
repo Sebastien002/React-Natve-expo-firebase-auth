@@ -1,0 +1,138 @@
+{
+  "common.email.title": [
+    "Email",
+    "Email"
+  ],
+  "common.name.title": [
+    "Full Name",
+    "Nom complet"
+  ],
+  "common.password.title": [
+    "Password",
+    "Mot de passe"
+  ],
+  "common.countryCode.title": [
+    "Select Country Code",
+    "Sélectionner le code du pays"
+  ],
+  "common.email.placeholder": [
+    "Enter Email",
+    "Entrer Email"
+  ],
+  "common.password.placeholder": [
+    "Enter Password",
+    "Entrer le mot de passe"
+  ],
+  "common.confirmPassword.placeholder": [
+    "Re-Enter Password",
+    "Retaper le mot de passe"
+  ],
+  "common.verification.placeholder": [
+    "Enter Verification Code",
+    "Entrez le code de vérification"
+  ],
+  "common.name.placeholder": [
+    "Enter your full name",
+    "Entrez votre nom complet"
+  ],
+  "common.phone.placeholder": [
+    "Enter Phone No.",
+    "Entrez le téléphone"
+  ],
+  "common.verification.error.required": [
+    "Please enter verification code",
+    "Veuillez entrer le code de vérification"
+  ],
+  "common.verification.error.valid": [
+    "Please enter a valid verification code",
+    "Veuillez entrer un code de vérification valide"
+  ],
+  "common.name.error.required": [
+    "Please enter your full name",
+    "S'il vous plait entrez votre nom entier"
+  ],
+  "common.firstName.placeholder": [
+    "Enter your first name",
+    "Entrez votre prénom"
+  ],
+  "common.firstName.error.required": [
+    "Please enter your first name",
+    "Entrez votre prénom s'il vous plait"
+  ],
+  "common.lastName.placeholder": [
+    "Enter your last name",
+    "Entrez votre nom de famille"
+  ],
+  "common.lastName.error.required": [
+    "Please enter your last name",
+    "Veuillez entrer votre nom de famille"
+  ],
+  "common.gender.placeholder": [
+    "Enter your gender",
+    "Entrez votre sexe"
+  ],
+  "common.gender.error.required": [
+    "Please enter your gender",
+    "S'il vous plaît entrez votre sexe"
+  ],
+  "common.username.error.required": [
+    "Please enter your username",
+    "S'il vous plaît entrez votre nom d'utilisateur"
+  ],
+  "common.email.error.required": [
+    "Please enter email",
+    "S'il vous plaît entrer email"
+  ],
+  "common.phone.error.required": [
+    "Please enter phone",
+    "S'il vous plaît entrer phone"
+  ],
+  "common.phone.error.invalid": [
+    "Please enter a valid numeric phone number.",
+    "Veuillez entrer un numéro de téléphone numérique valide."
+  ],
+  "common.phone.error.min": [
+    "Phone number should be of minimum 10 characters.",
+    "Le numéro de téléphone doit comporter au moins 10 caractères."
+  ],
+  "common.phone.error.max": [
+    "Phone number should be of maximum 15 characters.",
+    "Le numéro de téléphone doit comporter au maximum 15 caractères."
+  ],
+  "common.phone.error.linked": [
+    "This phone number is already linked to another account.",
+    "Ce numéro de téléphone est déjà associé à un autre compte."
+  ],
+  "common.email.error.invalid": [
+    "Please enter a valid email",
+    "Veuillez entrer un email valide"
+  ],
+  "common.password.error.required": [
+    "Please enter password",
+    "Veuillez entrer le mot de passe"
+  ],
+  "common.passwordLength.error.required": [
+    "Password should be of minimum 6 characters",
+    "Le mot de passe doit comporter au moins 6 caractères"
+  ],
+  "common.passwordConfirm.error.required": [
+    "Please confirm your password",
+    "S'il vous plaît confirmer votre mot de passe"
+  ],
+  "common.terms.error.required": [
+    "You must agree to our terms and conditions",
+    "Vous devez accepter nos termes et conditions"
+  ],
+  "common.server.error.unexpected": [
+    "Unexpected Server Error",
+    "Erreur de serveur inattendue"
+  ],
+  "common.server.error.404": [
+    "No such page found",
+    "Aucune page trouvée"
+  ],
+  "common.error.invalidCaptcha" : [
+    "Captcha has expired, Please try again",
+    "Captcha a expiré, Veuillez réessayer"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "forgot.success": [
+    "Please check your email for instructions to reset the password",
+    "S'il vous plaît vérifier votre e-mail pour obtenir des instructions pour réinitialiser le mot de passe"
+  ],
+  "forgot.error": [
+    "No such account related to this email exists in your system",
+    "Aucun compte associé à cet e-mail n'existe dans votre système"
+  ],
+  "forgot.title": [
+    "Forgot Password?",
+    "Mot de passe oublié?"
+  ],
+  "forgot.message": [
+    "We will send you password reset link to your email. Please enter your email address below.",
+    "Nous vous enverrons le lien de réinitialisation de mot de passe à votre adresse e-mail. Veuillez insérer votre adresse courriel ci-bas."
+  ],
+  "forgot.mistake": [
+    "Clicked by mistake?",
+    "Cliquez par erreur?"
+  ],
+  "forgot.account": [
+    "Need new account?",
+    "Besoin d'un compte?"
+  ],
+  "forgot.signIn": [
+    "Sign In",
+    "Se connecter"
+  ],
+  "forgot.signUp": [
+    "Sign Up",
+    "S'inscrire"
+  ],
+  "forgot.submit": [
+    "Submit",
+    "Soumettre"
+  ],
+  "forgot.invalid": [
+    "Invalid Submit",
+    "Soumettre incorrect"
+  ],
+  "forgot.submissionSuccess": [
+    "Submission Successful",
+    "Soumission réussie"
+  ]
+}

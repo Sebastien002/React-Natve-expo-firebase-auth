@@ -1,0 +1,66 @@
+{
+  "profile.error" : [
+    "Error while fetching profile",
+    "Erreur lors de l'extraction du profil"
+  ],
+  "profile.saveError" : [
+    "Error while saving profile",
+    "Erreur lors de la sauvegarde du profil"
+  ],
+  "profile.saveImageError" : [
+    "Error while saving profile image",
+    "Erreur lors de la sauvegarde du profil image"
+  ],
+  "profile.success" : [
+    "Profile saved successfully",
+    "Profil enregistré avec succès"
+  ],
+  "profile.edit" : [
+    "Edit",
+    "Modifier"
+  ],
+  "profile.name" : [
+    "Name",
+    "Prénom"
+  ],
+  "profile.email" : [
+    "Email",
+    "Email"
+  ],
+  "profile.phone" : [
+    "Phone No.",
+    "Téléphone"
+  ],
+  "profile.uid" : [
+    "Uid",
+    "Uid"
+  ],
+  "profile.phone.update.success" : [
+    "Phone number updated successfully.",
+    "Numéro de téléphone mis à jour avec succès."
+  ],
+  "profile.phone.update.error" : [
+    "There was an error in updating the phone number.",
+    "Une erreur s'est produite lors de la mise à jour du numéro de téléphone."
+  ],
+  "profile.email.update.success" : [
+    "Email updated successfully.",
+    "Email mis à jour avec succès."
+  ],
+  "profile.email.update.error" : [
+    "There was an error in updating the email.",
+    "Une erreur s'est produite lors de la mise à jour de l'e-mail."
+  ],
+  "profile.save" : [
+    "Save",
+    "Sauvegarder"
+  ],
+  "profile.changeImage" : [
+    "Change Image",
+    "Changer l'image"
+  ],
+  "profile.phoneVerification" : [
+    "You will need to verify the phone everytime you change it.",
+    "Vous devrez vérifier le téléphone chaque fois que vous le modifiez."
+  ]
+}

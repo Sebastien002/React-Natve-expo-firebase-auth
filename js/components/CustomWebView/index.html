@@ -1,0 +1,89 @@
+<!--
+ This is a general html file
+ for doing firebase web mechanisms like
+ twitter,github authentication etc
+ This file needs to be hosted on a web server
+ to work in a standalone app
+ -->
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <script src="https://www.gstatic.com/firebasejs/4.9.0/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/4.9.0/firebase-auth.js"></script>
+    <style>
+        .web-view {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            align-self: center;
+            vertical-align: middle;
+            height: 100vh;
+            flex-direction: column;
+            font-family: 'Roboto', sans-serif;
+        }
+        .web-view .title {
+            color: #fff;
+        }
+        .loading {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            align-self: center;
+            vertical-align: middle;
+            position: fixed;
+            height: 99vh;
+            width: 99vw;
+            top: 0;
+            left: 0;
+        }
+
+        .loader {
+            border: 2px solid #f3f3f3; /* Light grey */
+            border-top: 2px solid #ff5a60; /* Blue */
+            border-radius: 50%;
+            width: 20px;
+            height: 20px;
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            0% {
+                transform: rotate(0deg);
+            }
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+
+        .toast {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            align-self: center;
+            border-radius: 5px;
+            padding: 20px;
+            color: #fff;
+        }
+
+        .toast p {
+            margin: 0;
+            margin-top: 10px;
+            font-family: 'Roboto', sans-serif;
+        }
+    </style>
+</head>
+<body style="background:#ff5a60">
+<div class="web-view">
+    <p class="title" id="title"></p>
+    <div id="main-container"></div>
+</div>
+<div class="loading" id="loading">
+    <div class="toast">
+        <div class="loader"></div>
+    </div>
+</div>
+</body>
+</html>

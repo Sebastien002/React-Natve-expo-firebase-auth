@@ -1,0 +1,8 @@
+{
+  "name": "react-native-action-sheet-component",
+  "main": "src/index.js",
+  "version" : "1.0.0",
+  "dependencies": {
+
+  }
+}

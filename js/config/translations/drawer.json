@@ -1,0 +1,47 @@
+{
+  "drawer.editProfile" : [
+    "Edit Profile",
+    "Editer le profil"
+  ],
+  "drawer.home" : [
+    "Home",
+    "Accueil"
+  ],
+  "drawer.profile" : [
+    "Profile",
+    "Profil"
+  ],
+  "drawer.elements" : [
+    "UI Elements",
+    "UI Éléments"
+  ],
+  "drawer.changePassword" : [
+    "Change Password",
+    "Changer le mot de passe"
+  ],
+  "drawer.logout" : [
+    "Logout",
+    "Connectez - Out"
+  ],
+  "drawer.analytics" : [
+    "Analytics",
+    "Analytics"
+  ],
+  "drawer.facebookAds" : [
+    "Facebook Ads",
+    "Facebook Ads"
+  ],
+  "drawer.admob" : [
+    "Admob",
+    "Admob"
+  ],
+  "drawer.pushnotifications" : [
+    "Push Notifications",
+    "Push Notifications"
+  ],
+  "drawer.map" : [
+    "Map",
+    "Map"
+  ]
+
+}

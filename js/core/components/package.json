@@ -1,0 +1,12 @@
+{
+  "name": "arivaa-basic/components",
+  "dependencies": {
+    "react-native-modalbox": "^1.4.2",
+    "validate.js": "^0.11.1",
+    "react-navigation": "^1.0.0-beta.21",
+    "expo": "^23.0.0",
+    "antd-mobile-rn": "^2.1.1",
+    "country-data": "0.0.31",
+    "rc-form": "^2.1.7"
+  }
+}
